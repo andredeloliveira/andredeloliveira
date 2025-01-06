@@ -3,7 +3,7 @@
 I'm Andre. 
 I enjoy writing software.
 I'm focused on Web development but am also interested in Car Hacking.
-[![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andredeloliveira)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **andredeloliveira/andredeloliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
